@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToastHandler</string>
+    <string name="button_ok_text">ОК</string>
+</resources>
