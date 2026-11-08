@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
+    <string name="art1_title">Звёздная ночь</string>
+    <string name="art1_artist">Винсент Ван Гог</string>
+    <string name="art1_year">1889</string>
+
+    <string name="art2_title">Девятый вал</string>
+    <string name="art2_artist">Иван Айвазовский</string>
+    <string name="art2_year">1850</string>
+
+    <string name="art3_title">Мона Лиза</string>
+    <string name="art3_artist">Леонардо да Винчи</string>
+    <string name="art3_year">1503</string>
+</resources>
