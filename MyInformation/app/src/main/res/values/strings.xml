@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Information</string>
+    <string name="full_name">Владислав Базяк</string>
+    <string name="title">Студент, Android-разработчик</string>
+    <string name="phone">+7 (900) 000 00 00</string>
+    <string name="social">@Vladbazy</string>
+    <string name="email">student@example.com</string>
+</resources>
